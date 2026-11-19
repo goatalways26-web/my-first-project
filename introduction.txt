@@ -1,0 +1,8 @@
+MY FIRST GITHUB PROJECT
+I am a beginner in programming.
+I am learning:
+1. GitHub
+2. Python
+3. Artificial Intelligence
+4. Automation
+My goal is to become an AI and Automation Developer.
